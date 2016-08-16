@@ -1,3 +1,3 @@
-Toy implementation of forward-backward algorithm.
+Toy example of forward-backward algorithm.
 
-See the [lecture](http://www.cs.columbia.edu/~mcollins/fb.pdf) by Michael Collins.
+See Michael Collins's [lecture](http://www.cs.columbia.edu/~mcollins/fb.pdf) for details.
